@@ -1,0 +1,13 @@
+caugetch==0.0.1
+certifi==2022.6.15
+charset-normalizer==2.0.12
+clipboard==0.0.4
+colorama==0.4.5
+getpass4==0.0.14.1
+idna==3.3
+pyperclip==1.8.2
+python-dotenv==0.20.0
+requests==2.27.1
+selenium==3.141.0
+urllib3==1.26.9
+webdriver-manager==3.7.1
